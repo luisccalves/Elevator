@@ -3,7 +3,7 @@ import simpy
 import pygame
 from Rider 		import Rider
 from Elevator	import Elevator
-from Building	import Building
+from building	import Building
 
 """
 This is the main run file. It creates an enviorment for simpy and then attaches that to each elevator and rider. 
